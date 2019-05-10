@@ -1,2 +1,2 @@
 # SNN-Shared-Nearest-Neighbour
-Implementation of SNN with starbucks location data aand google maps api
+Implementation of SNN with starbucks location data and google maps api
